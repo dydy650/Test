@@ -1,2 +1,5 @@
 # Test
-demo git
+demo GIT qui se passe bien:wq
+wq
+:wq
+
